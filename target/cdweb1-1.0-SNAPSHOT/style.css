@@ -1,0 +1,33 @@
+<style>
+    .create-genre-container {
+        margin-top: 20px;
+    }
+
+    .create-genre-container h1 {
+        font-size: 24px;
+        margin-bottom: 10px;
+    }
+
+    .create-genre-container form {
+        display: flex;
+        align-items: center;
+    }
+
+    .create-genre-container label {
+        font-weight: bold;
+        margin-right: 10px;
+    }
+
+    .create-genre-container input[type="text"] {
+        padding: 5px;
+        font-size: 14px;
+    }
+
+    .create-genre-container input[type="submit"] {
+        padding: 5px 10px;
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        cursor: pointer;
+    }
+</style>
